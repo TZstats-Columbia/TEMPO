@@ -1,0 +1,6 @@
+*.mp4
+!examples/*.mp4
+__pycache__/
+*.pyc
+.DS_Store
+*.nc

@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below, together with the dataset it reads."
+title: "TEMPO"
+authors:
+  - family-names: Bian
+    given-names: Ce
+    affiliation: "Lamont-Doherty Earth Observatory, Columbia University"
+    orcid: "https://orcid.org/0009-0003-7721-5552"
+license: Apache-2.0
+repository-code: "https://github.com/cbian-prog/TEMPO"
+references:
+  - type: dataset
+    title: "North American heatwave objects on the 0.25° ERA5 grid, 1981-2026"
+    authors:
+      - family-names: Bian
+        given-names: Ce
+    version: "1.0"
+    doi: "10.5281/zenodo.23966834"
+    publisher:
+      name: Zenodo
+    year: 2026

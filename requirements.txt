@@ -1,0 +1,9 @@
+numpy
+pandas
+xarray
+netCDF4
+matplotlib
+cartopy
+imageio-ffmpeg
+zarr
+gcsfs
