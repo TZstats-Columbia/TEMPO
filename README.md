@@ -1,11 +1,8 @@
 # TEMPO
 
-Tools for working with the *North American heatwave objects on the 0.25° ERA5 grid, 1981–2026* catalogue
-(Bian 2026, [doi:10.5281/zenodo.23966834](https://doi.org/10.5281/zenodo.23966834)).
-
-The catalogue records heatwaves as objects: contiguous areas where the daily maximum 2 m temperature exceeds the local 1981–2010 90th
-percentile for at least 3 days, followed from day to day as events lasting at least 5 days. The dataset itself is on Zenodo; this
-repository holds code that reads it.
+A visualization tool for the Zenodo dataset *North American heatwave objects on the 0.25° ERA5 grid, 1981–2026*
+(Bian 2026, [doi:10.5281/zenodo.23966834](https://doi.org/10.5281/zenodo.23966834)). The dataset and its documentation are on Zenodo;
+this repository holds plotting code that reads it.
 
 ## Animating an event
 
