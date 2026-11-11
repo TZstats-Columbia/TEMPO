@@ -43,7 +43,8 @@ python scripts/anim_event.py --data path/to/na025_heatwave_objects_v1 \
 
 This writes `anim_nyc_2013.mp4`, a poster frame (`anim_nyc_2013_poster.png`, 20 UTC on the event's peak day) and a strip of six frames
 (`anim_nyc_2013_frames.png`), as in [`examples/`](examples). The example picks event G34542 (13–22 July 2013), with New York inside its
-footprint from 15 to 20 July.
+footprint from 15 to 20 July. [`examples/run_nyc_2013.sh`](examples/run_nyc_2013.sh) reproduces it:
+`bash examples/run_nyc_2013.sh path/to/na025_heatwave_objects_v1`.
 
 | Option | Meaning |
 |---|---|
