@@ -1,7 +1,7 @@
 # TEMPO
 
 A visualization tool for the Zenodo dataset *North American heatwave objects on the 0.25° ERA5 grid, 1981–2026*
-(Bian and Zheng 2026, [doi:10.5281/zenodo.23966834](https://doi.org/10.5281/zenodo.23966834)). The dataset and its documentation are on Zenodo;
+([doi:10.5281/zenodo.23966834](https://doi.org/10.5281/zenodo.23966834)). The dataset and its documentation are on Zenodo;
 this repository holds plotting code that reads it.
 
 ## Animating an event
