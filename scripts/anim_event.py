@@ -2,7 +2,7 @@
 # Copyright 2026 Ce Bian
 """Animate one event of the North American heatwave-object catalogue over hourly ERA5 2 m temperature.
 
-Reads the released dataset (Bian 2026, doi:10.5281/zenodo.23966834): heatwave_events.csv and heatwave_event_labels.nc.  The shading is
+Reads the released dataset (Bian and Zheng 2026, doi:10.5281/zenodo.23966834): heatwave_events.csv and heatwave_event_labels.nc.  The shading is
 hourly ERA5 2 m temperature, either from a local netCDF file or read anonymously from the public ARCO-ERA5 store on Google Cloud.
 
 Map: 2 m temperature every --step hours; the chosen event's footprint on that UTC day (white outline, hatched inside); the footprints of

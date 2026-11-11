@@ -14,6 +14,10 @@ references:
     authors:
       - family-names: Bian
         given-names: Ce
+        orcid: "https://orcid.org/0009-0003-7721-5552"
+      - family-names: Zheng
+        given-names: Tian
+        orcid: "https://orcid.org/0000-0003-4889-0391"
     version: "1.0"
     doi: "10.5281/zenodo.23966834"
     publisher:

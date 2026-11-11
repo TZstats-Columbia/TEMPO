@@ -1,7 +1,7 @@
 # TEMPO
 
 A visualization tool for the Zenodo dataset *North American heatwave objects on the 0.25° ERA5 grid, 1981–2026*
-(Bian 2026, [doi:10.5281/zenodo.23966834](https://doi.org/10.5281/zenodo.23966834)). The dataset and its documentation are on Zenodo;
+(Bian and Zheng 2026, [doi:10.5281/zenodo.23966834](https://doi.org/10.5281/zenodo.23966834)). The dataset and its documentation are on Zenodo;
 this repository holds plotting code that reads it.
 
 ## Animating an event
@@ -65,7 +65,7 @@ footprint from 15 to 20 July. [`examples/run_nyc_2013.sh`](examples/run_nyc_2013
 
 If you use the catalogue, please cite the dataset and ERA5:
 
-- Bian, C. (2026). *North American heatwave objects on the 0.25° ERA5 grid, 1981–2026* (Version 1.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.23966834
+- Bian, C. and Zheng, T. (2026). *North American heatwave objects on the 0.25° ERA5 grid, 1981–2026* (Version 1.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.23966834
 - Hersbach, H. et al. (2020). The ERA5 global reanalysis. *Quarterly Journal of the Royal Meteorological Society*, 146, 1999–2049. https://doi.org/10.1002/qj.3803
 
 Citation metadata for this code is in [`CITATION.cff`](CITATION.cff).
